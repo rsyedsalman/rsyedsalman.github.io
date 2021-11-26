@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Hi, This is Salman
+title: Salman Rahman
 subtitle: Grad student, NYU Tandon School of Engineering
 use-site-title: true
 ---
