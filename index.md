@@ -40,4 +40,5 @@ _International Journal of Integrated Engineering., Vol.10, No.4, pp. 68-72, 2018
 
 * * *
 
-When I am not working, I love playing chess. I would go extra mile to learn a new opening, or explore new lines based on Stockfish (Neural Network based Chess Engine). You could challenge me <a><href =="" "https:="" lichess.org="" @="" salmanr"="">here.</href></a> I usually enjoy writing too. My topics range from anecdotes to fictions to philosophy. I try to write on [medium](https://medium.com/@ssrsyed2).
+When I am not working, I love playing chess. I would go extra mile to learn a new opening, or explore new lines based on Stockfish (Neural Network based Chess Engine). You could challenge me on [lichess](https://lichess.org/@/salmanR). 
+I like writing on random stuffs too. My topics range from anecdotes to fictions to philosophy. I try to write on [medium](https://medium.com/@ssrsyed2).
