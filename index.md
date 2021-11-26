@@ -1,9 +1,9 @@
----
+===
 layout: home
-heading: Syed Salman Rahman
+title: Syed Salman Rahman
 subtitle: Grad student, NYU Tandon School of Engineering
 use-site-title: true
----
+===
 
 
 I am a grad student, pursuing MS in Computer Engineering at [New York University, Tandon School of Engineeering.](https://engineering.nyu.edu/) I am Salman. I was always determined to build a portfolio for myself that protrays diverse and deep technical competencies, engineering skillsets and as well as my leadershsip attributes. I got into engineering because I always loved to take challenges of solving engineering connundrums. My research interests are in the areas of Embedded System Design, Internet of Things (Iot), Signal Processing, Wireless Networking, Sensors and Systems (for biomedical application).  
