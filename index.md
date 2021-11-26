@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: home
 title: Syed Salman Rahman
 subtitle: Grad student, NYU Tandon School of Engineering
 use-site-title: true
