@@ -19,8 +19,8 @@ author: Syed Salman Rahman
 
 navbar-links:
   About Me: "aboutme"
-  CV:
-  PROJECT: 
+  CV: "cv"
+  PROJECT: "project" 
  
  
 
@@ -64,7 +64,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: your google scholar
+#  google-scholar: your google scholar
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
