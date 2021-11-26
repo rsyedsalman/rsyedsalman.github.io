@@ -18,6 +18,7 @@ author: Syed Salman Rahman
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: ""
   About Me: "aboutme"
   CV: "cv"
   PROJECT: "project" 
