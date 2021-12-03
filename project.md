@@ -60,16 +60,6 @@ The results above are the very first implementation of the idea I had in Tokyo. 
 <br />
 <br /> -->
 
-## 2019
-
-<br />
-
-#### Self-Supervised learning from video <br />
-
-One of my major projects of 2019; working with some great people at CSIRO on the topic of self-supervised learning. Our aim was to adapt tasks such as object detection and action recognition to new domains by learning from from unlabelled videos. We built on top of works such as that of [Wang et al.](https://arxiv.org/pdf/1903.07593.pdf) Our team was successful in building a model to learn temporally coherent representations from unlabelled videos. Preliminary results are documented [here](https://arxiv.org/pdf/2004.02753.pdf).
-
-![Learning Correspondence via Cycle-Consistency](../img/timecycle.jpg)
-
 
 <br />
 
