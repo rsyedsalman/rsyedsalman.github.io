@@ -16,23 +16,23 @@ I graduated from Universiti Teknologi Malaysia, Malaysia in 2020 with a Bachelor
 **Publications:**  
 
 
-“Microfluidic Based Dielectrophoresis Cell Sorter for real-time cancer detection”.  
+* “Microfluidic Based Dielectrophoresis Cell Sorter for real-time cancer detection”.  
 **Syed Salman Rahman**, Mohd. Ridzuan.  
 _3rd International Conference On Green Engineering & Technology 2021 (IConGETech2021)_
 \_ 
 
 
-“Temperature Distribution Study for Malaysia Broiler House”.  
+* “Temperature Distribution Study for Malaysia Broiler House”.  
 Lau K.X., Leow P.L., Jamian J.J.,Arsat, R., Abdeltawab A.A.A., **Rahman S.S.,** Khalid N.H., A.Mohamed A.  
 _2nd International Conference on Smart Sensors and Application, ICSSA, 2018._
 \_  
 
-“Harvesting electrical energy from rooftop ventilator”.  
+* “Harvesting electrical energy from rooftop ventilator”.  
 Lau K.X., Leow P.L., Jamian J.J.,Arsat, R., Abdeltawab A.A.A., Rahman S.S., Khalid N.H., A.Mohamed A.  
 _International Journal of Integrated Engineering., Vol.10, No.4, pp. 68-72, 2018._
 \_  
 
-“A Survey of IoT based Indoor Positioning Systems based on Bluetooth Low Energy Beacon”.  
+* “A Survey of IoT based Indoor Positioning Systems based on Bluetooth Low Energy Beacon”.  
 **Syed Salman Rahman**, Afia Fahmida Rahman, Eliya Tazreena Tashbib, Masud Imran, Rozeha A. Rashid, M. A. Sarijari.  
 (Submitted-Under review)
 \_  
