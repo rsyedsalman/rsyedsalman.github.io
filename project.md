@@ -12,7 +12,7 @@ In the past decade we have seen an explosion of wearable health devices ranging 
 The objective of this project was to build a wearable speedometer which can calculate velocity by measuring angular velocities available
 from the built-in gyroscope (L3GD20) in STM32F429 - without a GPS. The gyroscope is able to measure 3-axis angular velocity. Strategically placing the sensor on the legs or feet can capture the angular velocities and with a bit of processing can convert those angular velocities to linear forward velocity and calculate distance traveled (using only a gyro!)
 
-You can see the projcet here ![Here](www.facebook.com)
+You can see the projcet here [Here](https://github.com/srsyed2/RealTimeEmbeddedSystems)
 
 <!-- 
 ![Drag System](../img/drag_system.png){: .center : width="80%" !important}
