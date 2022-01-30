@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Hi, I'm Salman
 subtitle: Grad student, NYU Tandon School of Engineering
 use-site-title: true
