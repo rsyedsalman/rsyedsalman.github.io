@@ -5,10 +5,14 @@ subtitle: WhoamI
 ---
 
 
+</br>
+</br>
+
+
 
 ### My story
 
-I am Salman. I was always determined to build a portfolio for myself that protrays diverse and deep technical competencies, engineering skillsets and as well as my leadershsip attributes. I got into engineering because I always loved to take challenges of solving engineering connundrums.
+I was always determined to build a portfolio for myself that protrays diverse and deep technical competencies, engineering skillsets and as well as my leadershsip attributes. I got into engineering because I always loved to take challenges of solving engineering connundrums.
 
 
 When I am not working, I love playing chess. I would go extra mile to learn a new opening, or explore new lines based on Stockfish (Neural Network based Chess Engine). You could challenge me on [lichess](https://lichess.org/@/salmanR). 
