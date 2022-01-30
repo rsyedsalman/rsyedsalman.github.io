@@ -7,8 +7,8 @@ title: Projects
 
 #### Need For Speed Wearable Distance Tracker
 
-The objective of this project was to build a wearable speedometer which can calculate velocity by measuring angular velocities available
-from the built-in gyroscope (L3GD20) in STM32F429 - without a GPS.
+<p> The objective of this project was to build a wearable speedometer which can calculate velocity by measuring angular velocities available
+from the built-in gyroscope (L3GD20) in STM32F429 - without a GPS.<p>
 
 Few of the mentionable features of the projects are: 1. Made a tailor made driver for the L3GD20 sensor. 2. SPI communication was used to read data from the sensor at a frequency of 2 Hz. 
 3. For error reduction the Moving Average Filter was used, where the latest 5 sensor data were averaged out to correct the values.
