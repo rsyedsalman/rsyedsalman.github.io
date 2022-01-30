@@ -19,17 +19,17 @@ Few of the mentionable features of the projects are: 1. Made a tailor made drive
 Simple Moving Average = (A1 + A2 + …… + An) / n
 where, A = Average in period n, n  = Number of time period
 
-![Moving_Average](../img/MovingAv.png){: .center_wide}
+![Moving_Average](/assets/img/MovingAv.png){: .center_wide}
 
 I found some great results with above 90% accuracy, for a distance covered in 20 seconds.
 
 The figure below shows what distance were covered by the user every 2.5s.
 
-![Step_Distance](../img/RTES_StepDist.png){: .center_wide}
+![Step_Distance](/assets/img/RTES_StepDist.png){: .center_wide}
 
 This graph indicates total distance (m) during a time period of 20 seconds. The graph depicts an increased trend for distance traveled beginning at 0 seconds.
 
-![Final_Distance](../img/RTES_20s.png){: .center_wide}
+![Final_Distance](/assets/img/RTES_20s.png){: .center_wide}
 
 You can find the full code for the project, here [Here](https://github.com/srsyed2/RealTimeEmbeddedSystems)
 
