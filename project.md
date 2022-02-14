@@ -37,17 +37,17 @@ You can find the full code for the project, here [Here](https://github.com/srsye
 
 <p>Currently, recycling stations are situated around the different boroughs of New York City. In this case study, I examined the distribution of different types recycle stations across New York City's 5 boroughs and attempt to design a strategy for where to add more recycle stations in general and recommendations for deployment of specific waste recycling stations to fulfill inadequacies in each boroughs.</p>
 
-# <u>Dataset</u>
+<u>Dataset</u>
 
-## The dataset used for this case study is a compilation of multiple datasets consisting data on different types of recycling stations from *The City of New York, Department of Sanitation (DSNY)*.
+The dataset used for this case study is a compilation of multiple datasets consisting data on different types of recycling stations from *The City of New York, Department of Sanitation (DSNY)*.
 
-## The dataset consists of: 1. Name of the site of the recycling station, 2. Borough the station is situated at, 3. Specific address in text, 4. Longitude and Latitude coordinates of the station,    5. Type of recycling station.
+The dataset consists of: 1. Name of the site of the recycling station, 2. Borough the station is situated at, 3. Specific address in text, 4. Longitude and Latitude coordinates of the station,    5. Type of recycling station.
 
-### 1. https://data.cityofnewyork.us/Environment/Electronics-Drop-Off-Locations-in-NYC/wshr-5vic
+1. [](https://data.cityofnewyork.us/Environment/Electronics-Drop-Off-Locations-in-NYC/wshr-5vic)
 
-### 2. https://data.cityofnewyork.us/Environment/Public-Recycling-Bins/sxx4-xhzg
+2. [](https://data.cityofnewyork.us/Environment/Public-Recycling-Bins/sxx4-xhzg)
 
-### 3. https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Locations-in-NYC-Map-/qfn2-4jea
+3. [](https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Locations-in-NYC-Map-/qfn2-4jea)
 
 The compiled dataset can be found here: [Dataset](shorturl.at/xyJMQ)
 
