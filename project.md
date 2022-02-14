@@ -51,7 +51,7 @@ The dataset consists of: 1. Name of the site of the recycling station, 2. Boroug
 
 The compiled dataset can be found here: [Dataset](shorturl.at/xyJMQ)
 
-<p> If we can figure out the ratio of recycling station to the population of each borough, we can find the disparity in the distribution. The two figures below shows the distrubitions of Recycle Bins normalized to population and the distribution of different types of recycle bins around all boroughs of New York City 
+<p> By figuring out the ratio of recycling station to the population of each borough, we can find the disparity in the distribution. The two figures below shows the distrubitions of Recycle Bins normalized to population and the distribution of different types of recycle bins around all boroughs of New York City 
 
 ![PopToBins](/assets/img/RecBin_PopToBin.png){: width = "350px"} ![TypeDistribution](/assets/img/RecBin_TypeDis.png){: width = "350px"} </p>
 
