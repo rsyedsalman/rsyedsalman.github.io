@@ -43,18 +43,18 @@ The dataset used for this case study is a compilation of multiple datasets consi
 
 The dataset consists of: 1. Name of the site of the recycling station, 2. Borough the station is situated at, 3. Specific address in text, 4. Longitude and Latitude coordinates of the station,    5. Type of recycling station.
 
-1. https://data.cityofnewyork.us/Environment/Electronics-Drop-Off-Locations-in-NYC/wshr-5vic
+1. [https://data.cityofnewyork.us/Environment/Electronics-Drop-Off-Locations-in-NYC/wshr-5vic](https://data.cityofnewyork.us/Environment/Electronics-Drop-Off-Locations-in-NYC/wshr-5vic)
 
-2. https://data.cityofnewyork.us/Environment/Public-Recycling-Bins/sxx4-xhzg
+2. [https://data.cityofnewyork.us/Environment/Public-Recycling-Bins/sxx4-xhzg](https://data.cityofnewyork.us/Environment/Public-Recycling-Bins/sxx4-xhzg)
 
-3. https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Locations-in-NYC-Map-/qfn2-4jea
+3. [https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Locations-in-NYC-Map-/qfn2-4jea](https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Locations-in-NYC-Map-/qfn2-4jea)
 
 The compiled dataset can be found here: [Dataset](shorturl.at/xyJMQ)
 
 <p> If we can figure out the ratio of recycling station to the population of each borough, we can find the disparity in the distribution. The two figures below shows the distrubitions of Recycle Bins normalized to population and the distribution of different types of recycle bins around all boroughs of New York City 
 
 ![PopToBins](/assets/img/RecBin_PopToBin.png){: width = "350px"} ![TypeDistribution](/assets/img/RecBin_TypeDis.png){: width = "350px"} </p>
-</p>
+
 I created an user interactive interface based on Dash Plotly where people can hover on different areas of NYC and find where current recycle bins are located.
 
 ![PopToBins](/assets/img/RecBin_Disp.png){: .center_wide} 
