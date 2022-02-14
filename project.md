@@ -18,7 +18,7 @@ Few of the mentionable features of the projects are: 1. Made a tailor made drive
 Simple Moving Average = (A1 + A2 + …… + An) / n
 where, A = Average in period n, n  = Number of time period
 
-             ![Moving_Average](/assets/img/MovingAv.png){: .center_wide}
+![Moving_Average](/assets/img/MovingAv.png){: .center_wide}
 
 I found some great results with above 90% accuracy, for a distance covered in 20 seconds.
 
@@ -35,9 +35,31 @@ You can find the full code for the project, here [Here](https://github.com/srsye
 
 <p>New York residents are estimated to produce approximately 12,000 tonnes of waste everyday. Each year a significant amount of the tax has to be allocated for collection, disposal and sending of waste to landfills. Landfills are responsible for 36% of all methane emissions in the US, one of the most potent contributors to global warming. In the light of the exorbitant and long term environmental and economical effects, New York City has declared a 20 year Solid Waste Management Plan to reduce its waste disposal.</p>
 
-<p>Currently, recycling stations are situated around the different boroughs of New York City. In this case study, I will examine the distribution of different types recycle stations across New York City's 5 boroughs and attempt to design a strategy for where to add more recycle stations in general and recommendations for deployment of specific waste recycling stations to fulfill inadequacies in each boroughs.</p>
+<p>Currently, recycling stations are situated around the different boroughs of New York City. In this case study, I examined the distribution of different types recycle stations across New York City's 5 boroughs and attempt to design a strategy for where to add more recycle stations in general and recommendations for deployment of specific waste recycling stations to fulfill inadequacies in each boroughs.</p>
 
-You can find the full code for the project, here [Here](https://github.com/srsyed2/RecycleStationsNYC/blob/main/Final_Project_SyedSalmanN13866121.ipynb)
+# <u>Dataset</u>
+
+## The dataset used for this case study is a compilation of multiple datasets consisting data on different types of recycling stations from *The City of New York, Department of Sanitation (DSNY)*.
+
+## The dataset consists of: 1. Name of the site of the recycling station, 2. Borough the station is situated at, 3. Specific address in text, 4. Longitude and Latitude coordinates of the station,    5. Type of recycling station.
+
+### 1. https://data.cityofnewyork.us/Environment/Electronics-Drop-Off-Locations-in-NYC/wshr-5vic
+
+### 2. https://data.cityofnewyork.us/Environment/Public-Recycling-Bins/sxx4-xhzg
+
+### 3. https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Locations-in-NYC-Map-/qfn2-4jea
+
+The compiled dataset can be found here: [Dataset](shorturl.at/xyJMQ)
+
+<p> If we can figure out the ratio of recycling station to the population of each borough, we can find the disparity in the distribution. The two figures below shows the distrubitions of Recycle Bins normalized to population and the distribution of different types of recycle bins around all boroughs of New York City </p>
+
+<p> ![PopToBins](/assets/img/RecBin_PopToBin){: width = "350px"} ![TypeDistribution](/assets/img/RecBin_TypeDis){: width = "350px"} </p>
+
+I created an user interactive interface based on Dash Plotly where people can hover on different areas of NYC and find where current recycle bins are located.
+
+![PopToBins](/assets/img/RecBin_Disp){: .center_wide} 
+
+You can find the full code for the project, [Here](https://github.com/srsyed2/RecycleStationsNYC/blob/main/Final_Project_SyedSalmanN13866121.ipynb)
 
 
 
