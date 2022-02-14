@@ -23,10 +23,10 @@ where, A = Average in period n, n  = Number of time period
 I found some great results with above 90% accuracy, for a distance covered in 20 seconds.
 
 The figure below shows what distance were covered by the user every 2.5s.
-![Step_Distance](/assets/img/RTES_StepDist.png){: width = "350px"}
+![Step_Distance](/assets/img/RTES_StepDist.png){: .center_wide}
 
 This graph indicates total distance (m) during a time period of 20 seconds. The graph depicts an increased trend for distance traveled beginning at 0 seconds.
-![Final_Distance](/assets/img/RTES_20s.png){: width = "350px"}
+![Final_Distance](/assets/img/RTES_20s.png){: .center_wide
 
 You can find the full code for the project, here [Here](https://github.com/srsyed2/RealTimeEmbeddedSystems)
 
