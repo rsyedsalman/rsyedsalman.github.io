@@ -34,7 +34,7 @@ The figure on the right indicates total distance (m) during a time period of 20 
             <td style="padding:10px">
             	<img src="/assets/img/RTES_20s.png" width="310"/>
             </td>
-        </tr>
+            </tr>
     </table>
 </div>
 
