@@ -29,10 +29,10 @@ The figure on the right indicates total distance (m) during a time period of 20 
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="//assets/img/RTES_StepDist.png" width="310"/>
+        	    <img src="/assets/img/RTES_StepDist.png" width="350"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="/assets/img/RTES_20s.png" width="310"/>
+            	<img src="/assets/img/RTES_20s.png" width="350"/>
             </td>
             </tr>
     </table>
@@ -81,7 +81,7 @@ I created an user interactive interface based on Dash Plotly where people can ho
 
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="/assets/img/RecBin_Disp.png" width="500"/>
+          <img src="/assets/img/RecBin_Disp.png" width="800"/>
      </div>
 </div>
 
