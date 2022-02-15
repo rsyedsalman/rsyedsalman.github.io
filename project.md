@@ -67,16 +67,6 @@ The compiled dataset can be found here: [Dataset](shorturl.at/xyJMQ)
 </div>
 
 
-
-<div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <img src="" width="300"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="" width="300"/>
-     </div>
-</div>
-
 I created an user interactive interface based on Dash Plotly where people can hover on different areas of NYC and find where current recycle bins are located.
 
 <div style="display:flex">
