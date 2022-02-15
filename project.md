@@ -40,6 +40,12 @@ The figure on the right indicates total distance (m) during a time period of 20 
 
 You can find the full code for the project, here [Here](https://github.com/srsyed2/RealTimeEmbeddedSystems)
 
+<br />
+
+---
+
+<br />
+
 #### Recycling Stations in NYC
 
 <p>New York residents are estimated to produce approximately 12,000 tonnes of waste everyday. Each year a significant amount of the tax has to be allocated for collection, disposal and sending of waste to landfills. Landfills are responsible for 36% of all methane emissions in the US, one of the most potent contributors to global warming. In the light of the exorbitant and long term environmental and economical effects, New York City has declared a 20 year Solid Waste Management Plan to reduce its waste disposal.</p>
@@ -86,6 +92,11 @@ I created an user interactive interface based on Dash Plotly where people can ho
 
 You can find the full code for the project, [Here](https://github.com/srsyed2/RecycleStationsNYC/blob/main/Final_Project_SyedSalmanN13866121.ipynb)
 
+<br />
+
+---
+
+<br />
 
 #### ProxIPS
 
@@ -94,10 +105,10 @@ ProxIPS is a full solution because it includes both a web-based application for 
 
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="/assets/img/ProxIPS_Arch.png" width="450"/>
+          <img src="/assets/img/ProxIPS_Arch.png" width="480"/>
      </div>
 	<div style="flex:1;padding-right:10px;">
-          <img src="/assets/img/ProxIPSdash.png" width="450"/>
+          <img src="/assets/img/ProxIPSdash.png" width="480"/>
      </div>
 </div>
 
@@ -105,12 +116,19 @@ The Minister of Energy, Science, and Technology of Malaysia presented ProxIPS wi
 
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="/assets/img/proxips4.jpeg" width="450"/>
+          <img src="/assets/img/proxips4.jpeg" width="500"/>
      </div>
 </div>
 <br/>
 
 
+<iframe class="center_notsowide" height="315" src="https://www.youtube.com/watch?v=T8znCcV0CeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
+---
+
+<br />
 <!-- .png
 ![Drag System](../img/drag_system.png){: .center : width="80%" !important}
 ![Apogee Prediction](../img/apogee.png){: .center : width="40%"}
