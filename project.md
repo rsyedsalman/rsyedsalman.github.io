@@ -40,7 +40,6 @@ The figure on the right indicates total distance (m) during a time period of 20 
 
 You can find the full code for the project, here [Here](https://github.com/srsyed2/RealTimeEmbeddedSystems)
 
-
 #### Recycling Stations in NYC
 
 <p>New York residents are estimated to produce approximately 12,000 tonnes of waste everyday. Each year a significant amount of the tax has to be allocated for collection, disposal and sending of waste to landfills. Landfills are responsible for 36% of all methane emissions in the US, one of the most potent contributors to global warming. In the light of the exorbitant and long term environmental and economical effects, New York City has declared a 20 year Solid Waste Management Plan to reduce its waste disposal.</p>
@@ -87,7 +86,30 @@ I created an user interactive interface based on Dash Plotly where people can ho
 
 You can find the full code for the project, [Here](https://github.com/srsyed2/RecycleStationsNYC/blob/main/Final_Project_SyedSalmanN13866121.ipynb)
 
+<br/>
 
+#### ProxIPS
+
+ProxIPS is a RSSI based indoor positioning system based on Bluetooth Low Energy (BLE). ProxIPS is different from other distance proximity algorithms because it uses ML (k-nearest neighbour) instead of traditional triangulation procedures.
+ProxIPS is a full solution because it includes both a web-based application for corporate user analytics and a mobile phone app for customers who want to get user-specific content streams.
+
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="/assets/img/ProxIPS_Arch.png" width="450"/>
+     </div>
+	<div style="flex:1;padding-right:10px;">
+          <img src="/assets/img/ProxIPSdash.png" width="450"/>
+     </div>
+</div>
+
+The Minister of Energy, Science, and Technology of Malaysia presented ProxIPS with the award for third place in the Grand Challenges Competition 2019.
+
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="/assets/img/proxips4.jpeg" width="450"/>
+     </div>
+</div>
+<br/>
 
 
 <!-- .png
