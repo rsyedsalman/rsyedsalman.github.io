@@ -15,7 +15,7 @@ Few of the mentionable features of the projects are: 1. Made a tailor made drive
 4. Python was used to illustrate relevant data visualization.
 
 
-Simple Moving Average = (A1 + A2 + …… + An) / n
+Simple Moving Average = `(A1 + A2 + …… + An) / n`
 where, A = Average in period n, n  = Number of time period
 
 ![Moving_Average](/assets/img/MovingAv.png){: .center_wide}
@@ -129,6 +129,25 @@ The Minister of Energy, Science, and Technology of Malaysia presented ProxIPS wi
 
 <br />
 
+#### Microfluidic based Dielectrophoretic Cell Sorter for Real-time Cancer Detection
+
+<p> Microfluidic based Dielectrophoresis (DEP) is a label-free, non-invasive method used for biological cell sorting by many researchers. This method is concisely utilized in the segregation of cancerous cells from normal, healthy cells which canhelp in the diagnosis in real-time. With the aid of dielectrophoretic field-flow-fractionation (DEP-FFF) using a low voltage of 10 Volts, the device was successful in separating a total of 48 samples of Circulating Tumor Cells (CTCs) from a total mixture sample of 52, at a rate of 87% in 118 seconds.</p>
+<p> The complete study was simulated on *COMSOL Multiphysics 5.3A* through which the comparison study on characterization of the designs in terms of electric potential,pressure, fluid flow of the particles and separation was carried out.</p>
+
+<div style="display:flex">
+	 <div style="flex:1;padding-right:10px;">
+          <img src="/assets/img/sep2.PNG" width="450"/>
+     </div>
+     <div style="flex:1;padding-right:10px;">
+          <img src="/assets/img/graph.PNG" width="450"/>
+     </div>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BWHUgXOqAms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<br />
 
+---
+
+<br />
