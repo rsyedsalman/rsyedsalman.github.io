@@ -139,7 +139,7 @@ The Minister of Energy, Science, and Technology of Malaysia presented ProxIPS wi
           <img src="/assets/img/oneS.jpeg" width="500"/>
      </div>
      <div style="flex:1;padding-right:10px;">
-          <img src="/assets/img/graph.PNG" width="450"/>
+          <img src="/assets/img/graph.PNG" width="430"/>
      </div>
 </div>
 <br />
