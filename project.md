@@ -53,18 +53,37 @@ The compiled dataset can be found here: [Dataset](shorturl.at/xyJMQ)
 
 <p> By figuring out the ratio of recycling station to the population of each borough, we can find the disparity in the distribution. The two figures below shows the distrubitions of Recycle Bins normalized to population and the distribution of different types of recycle bins around all boroughs of New York City </p>
 
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="/assets/img/RecBin_PopToBin.png" width="310"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="/assets/img/RecBin_TypeDis.png" width="310"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="/assets/img/RecBin_PopToBin.png" width="300"/>
+          <img src="" width="300"/>
      </div>
      <div style="flex:1;padding-left:10px;">
-          <img src="/assets/img/RecBin_TypeDis.png" width="300"/>
+          <img src="" width="300"/>
      </div>
 </div>
 
 I created an user interactive interface based on Dash Plotly where people can hover on different areas of NYC and find where current recycle bins are located.
 
-![PopToBins](/assets/img/RecBin_Disp.png){: .center_wide} 
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="/assets/img/RecBin_Disp.png" width="500"/>
+     </div>
+</div>
 
 You can find the full code for the project, [Here](https://github.com/srsyed2/RecycleStationsNYC/blob/main/Final_Project_SyedSalmanN13866121.ipynb)
 
