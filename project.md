@@ -142,8 +142,9 @@ The Minister of Energy, Science, and Technology of Malaysia presented ProxIPS wi
           <img src="/assets/img/graph.PNG" width="450"/>
      </div>
 </div>
+<br />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BWHUgXOqAms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="580" height="325" src="https://www.youtube.com/embed/BWHUgXOqAms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br />
