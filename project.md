@@ -86,7 +86,6 @@ I created an user interactive interface based on Dash Plotly where people can ho
 
 You can find the full code for the project, [Here](https://github.com/srsyed2/RecycleStationsNYC/blob/main/Final_Project_SyedSalmanN13866121.ipynb)
 
-<br/>
 
 #### ProxIPS
 
