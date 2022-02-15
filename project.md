@@ -55,7 +55,7 @@ The compiled dataset can be found here: [Dataset](shorturl.at/xyJMQ)
 
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="/assets/img/RecBin_PopToBin.png" width="200"/>
+          <img src="/assets/img/RecBin_PopToBin.png" width="300"/>
      </div>
      <div style="flex:1;padding-left:10px;">
           <img src="/assets/img/RecBin_TypeDis.png" width="300"/>
