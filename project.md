@@ -22,7 +22,7 @@ Few of the mentionable features of the projects are: 1. Made a tailor made drive
 4. Python was used to illustrate relevant data visualization.
 
 
-Simple Moving Average = `(A1 + A2 + …… + An) / n`
+Simple Moving Average = ``(A1 + A2 + …… + An) / n``
 where, A = Average in period n, n  = Number of time period
 
 ![Moving_Average](/assets/img/MovingAv.png){: .center_wide}
