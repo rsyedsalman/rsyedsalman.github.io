@@ -6,6 +6,8 @@ title: Projects
 | Project List  |
 | ------------- | 
 | [Need For Speed Wearable Distance Tracker](#rtes) | 
+| [Recycling Stations in NYC](#recycle) |
+| [ProxIPS](#proxips) | 
 | [Microfluidic based Dielectrophoretic Cell Sorter for Real-time Cancer Detection](#micro) | 
 
 <br/>
@@ -51,7 +53,7 @@ You can find the full code for the project, here [Here](https://github.com/srsye
 
 <br />
 
-#### Recycling Stations in NYC
+#### <a name = "recycle"> </a> Recycling Stations in NYC
 
 <p>New York residents are estimated to produce approximately 12,000 tonnes of waste everyday. Each year a significant amount of the tax has to be allocated for collection, disposal and sending of waste to landfills. Landfills are responsible for 36% of all methane emissions in the US, one of the most potent contributors to global warming. In the light of the exorbitant and long term environmental and economical effects, New York City has declared a 20 year Solid Waste Management Plan to reduce its waste disposal.</p>
 
@@ -103,7 +105,7 @@ You can find the full code for the project, [Here](https://github.com/srsyed2/Re
 
 <br />
 
-#### ProxIPS
+#### <a name = "proxips"> </a> ProxIPS
 
 ProxIPS is a RSSI based indoor positioning system based on Bluetooth Low Energy (BLE). ProxIPS is different from other distance proximity algorithms because it uses ML (k-nearest neighbour) instead of traditional triangulation procedures.
 ProxIPS is a full solution because it includes both a web-based application for corporate user analytics and a mobile phone app for customers who want to get user-specific content streams.
