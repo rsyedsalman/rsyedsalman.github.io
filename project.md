@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 <ol>
-  <li> Microfluidic <a href="/project#Micro"</a></li>
+  <li> Microfluidic <a href="/project#micro"</a></li>
 </ol> 
 
 <br/>
@@ -132,7 +132,7 @@ The Minister of Energy, Science, and Technology of Malaysia presented ProxIPS wi
 
 <br />
 
-<div id="Micro">
+<div id="micro">
 #### Microfluidic based Dielectrophoretic Cell Sorter for Real-time Cancer Detection
 
 <p> Microfluidic based Dielectrophoresis (DEP) is a label-free, non-invasive method used for biological cell sorting by many researchers. This method is concisely utilized in the segregation of cancerous cells from normal, healthy cells which canhelp in the diagnosis in real-time. With the aid of dielectrophoretic field-flow-fractionation (DEP-FFF) using a low voltage of 10 Volts, the device was successful in separating a total of 48 samples of Circulating Tumor Cells (CTCs) from a total mixture sample of 52, at a rate of 87% in 118 seconds.</p>
