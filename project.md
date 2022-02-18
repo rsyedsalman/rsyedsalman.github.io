@@ -2,10 +2,9 @@
 layout: page
 title: Projects
 ---
-<ol>
-  <li> [Need For Speed Wearable Distance Tracker](#rtes)</li>
-  <li> [Microfluidic based Dielectrophoretic Cell Sorter for Real-time Cancer Detection](#micro)</li>
-</ol> 
+
+ [Need For Speed Wearable Distance Tracker](#rtes)</li>
+ [Microfluidic based Dielectrophoretic Cell Sorter for Real-time Cancer Detection](#micro)
 
 <br/>
 
