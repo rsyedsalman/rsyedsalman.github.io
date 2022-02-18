@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 <ol>
-  <li><a href="/project/#Micro"</a></li>
+  <li> Microfluidic <a href="/project#Micro"</a></li>
 </ol> 
 
 <br/>
