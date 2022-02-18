@@ -3,12 +3,13 @@ layout: page
 title: Projects
 ---
 <ol>
+  <li> [Need For Speed Wearable Distance Tracker](#rtes)</li>
   <li> [Microfluidic based Dielectrophoretic Cell Sorter for Real-time Cancer Detection](#micro)</li>
 </ol> 
 
 <br/>
 
-#### Need For Speed Wearable Distance Tracker
+#### <a name= "rtes"></a> Need For Speed Wearable Distance Tracker
 
 <p> The objective of this project was to build a wearable speedometer which can calculate velocity by measuring angular velocities available
 from the built-in gyroscope (L3GD20) in STM32F429 - without a GPS.</p>
