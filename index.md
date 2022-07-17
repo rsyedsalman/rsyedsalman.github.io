@@ -15,6 +15,7 @@ I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Ba
 * * *
 
 * * *
+
 #### Education:
 
 <dl>
@@ -32,6 +33,7 @@ I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Ba
 * * *
 
 #### Experience:
+
 <dl>
   
 <dt>Field Application Engineer Intern, STMicroelectronics, Schaumburg, IL.</dt>
@@ -79,7 +81,8 @@ Technology” and “Sustainable Temperature Control for Broiler House in Malays
 </dl>
 ***
 
-#### Technical Skills
+#### Technical Skills:
+
 <dl>'
   <dd>
 • Programming Languages: C/C++, Python, MATLAB, Assembly (RISC-V), Verilog.
