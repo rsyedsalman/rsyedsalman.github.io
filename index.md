@@ -15,7 +15,7 @@ I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Ba
 * * *
 
 * * *
-##Education:
+#### Education:
 
 <dl>
   <dt>New York University, Tandon School of Engineering, Brooklyn, NY, USA</dt>
@@ -23,7 +23,7 @@ I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Ba
   <dd>2021-2023</dd>
   
   <dt>Universiti Teknologi Malaysia, Skudai, Johor, Malaysia</dt>
-  <dd>Beng, Electrical-Mechatronics </dd>
+  <dd>BEng, Electrical-Mechatronics </dd>
   <dd>2016-2020</dd>
 </dl>
 
@@ -31,7 +31,7 @@ I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Ba
 
 * * *
 
-###Experience:
+#### Experience:
 <dl>
 <dt>Field Application Engineer Intern, STMicroelectronics, Schaumburg, IL.</dt>
  <dd>
@@ -75,7 +75,7 @@ Technology” and “Sustainable Temperature Control for Broiler House in Malays
 
 ***
 
-###Technical Skills
+#### Technical Skills
 
 • Programming Languages: C/C++, Python, MATLAB, Assembly (RISC-V), Verilog.
 • Design, Modeling, Simulation: Simulink, COMSOL, NI LabView, Proteus, Modelsim,
@@ -85,10 +85,9 @@ Tinkercad/SolidWorks.
 Thermographic camera, Power Amplifier (PA), Signal Generator, Spectrum Analyzer (SA)
 • Other tools and frameworks: mbed, STMCubeIDE, UNICO-GUI, SerialPlot, git, AWS IoT.
 
-***
+* * *
 
-###Publications
-
+#### Publications:
 
 * “Microfluidic Based Dielectrophoresis Cell Sorter for real-time cancer detection”.  
 **Syed Salman Rahman**, Mohd. Ridzuan.  
