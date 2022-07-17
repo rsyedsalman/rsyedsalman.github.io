@@ -35,14 +35,15 @@ I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Ba
 #### Experience:
 
 <ul>
-  <li>**Field Application Engineer Intern, STMicroelectronics, Schaumburg, IL** (June '22 - Present)</li>
+  <li>Field Application Engineer Intern, STMicroelectronics, Schaumburg, IL (June '22 - Present)
     <ul>
       <li>Contributed to characterizing TMOS occupancy sensing technology for MEMS Application Team</li>
       <li>Developed hardware and software of test equipment to enable automated testing routines for MEMS sensors</li>
       <li> Aid in development of sensor data analysis / visualization</li>
     </ul>
+   </li>
   
-  <li>**Research Assistant, Impact Innovation Lab, NYU Tandon School of Engineering** (under Prof. Matthew Campisi) (Jan '22 - Present)</li>
+  <li>Research Assistant, Impact Innovation Lab, NYU Tandon School of Engineering (under Prof. Matthew Campisi) (Jan '22 - Present)
       <ul>
           <li>Contributed to the hardware and software integration through firmware development, hardware design and clinical research for ARMA, a            biomedical device to monitor progression of Rheumatoid Arthritis using Infrared Thermography</li>
           <li>Conducted quantitative and qualitative comparison study of users’ thermographic hand images based on
@@ -50,7 +51,7 @@ I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Ba
       </ul>
   </li>
   
-  <li>**Course Assistant, CS 2204, Department of ECE, Tandon School of Engineering, NYU** (Sept ‘21 – Jan ‘22)</li> 
+  <li>Course Assistant, CS 2204, Department of ECE, Tandon School of Engineering, NYU (Sept ‘21 – Jan ‘22)
       <ul>
           <li> Conducting Lab sessions for Digital Logic and State Machine Design focusing on the synthesis of components
                 using Verilog and demonstration on hardware using NEXYS 4 DDR FPGA board from Xilinx.</li>
@@ -59,7 +60,7 @@ I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Ba
    </li>
 
 
-  <li>**Research and Development Intern, INNATES PLT, Johor Bahru, Malaysia.** (June ‘19–Sep ’19)</li>
+  <li>Research and Development Intern, INNATES PLT, Johor Bahru, Malaysia. (June ‘19–Sep ’19)
           <ul>
               <li>
                 Worked on a project named “Photovoltaic Energy Monitoring Systems (PVEMS, an Energy monitoring IoT Application for an offshore bunker“.               </li>
@@ -70,7 +71,7 @@ I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Ba
           </ul>
    </li>
 
-<li> **Research Assistant, Instrumentation Lab under Prof. Leow Pei Ling, UTM, Malaysia** (Nov ‘17–May ’18)</li>
+<li> Research Assistant, Instrumentation Lab under Prof. Leow Pei Ling, UTM, Malaysia(Nov ‘17–May ’18)
   <ul>
       <li>
       Worked under supervision of Assoc. Prof. Leow Pei Ling on the projects “Sustainable Farming with Green
@@ -81,6 +82,7 @@ I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Ba
 </li>
 
 </ul>
+
 ***
 
 #### Technical Skills:
@@ -100,24 +102,25 @@ Thermographic camera, Power Amplifier (PA), Signal Generator, Spectrum Analyzer 
    <dd>
 • Other tools and frameworks: mbed, STMCubeIDE, UNICO-GUI, SerialPlot, git, Linux AWS IoT.</dd>
   </dl>
+  
 * * *
 
 #### Publications:
 
 * “Microfluidic Based Dielectrophoresis Cell Sorter for real-time cancer detection”.  
 **Syed Salman Rahman**, Mohd. Ridzuan.  
-_3rd International Conference On Green Engineering & Technology 2021 (IConGETech2021)_
+_3rd International Conference On Green Engineering & Technology 2021 (IConGETech2021)
 \_ 
 
 
 * “Temperature Distribution Study for Malaysia Broiler House”.  
 Lau K.X., Leow P.L., Jamian J.J.,Arsat, R., Abdeltawab A.A.A., **Rahman S.S.,** Khalid N.H., A.Mohamed A.  
-_2nd International Conference on Smart Sensors and Application, ICSSA, 2018._
+_2nd International Conference on Smart Sensors and Application, ICSSA, 2018.
 \_  
 
 * “Harvesting electrical energy from rooftop ventilator”.  
 Lau K.X., Leow P.L., Jamian J.J.,Arsat, R., Abdeltawab A.A.A., Rahman S.S., Khalid N.H., A.Mohamed A.  
-_International Journal of Integrated Engineering., Vol.10, No.4, pp. 68-72, 2018._
+_International Journal of Integrated Engineering., Vol.10, No.4, pp. 68-72, 2018.
 \_  
 
 * “A Survey of IoT based Indoor Positioning Systems based on Bluetooth Low Energy Beacon”.  
