@@ -87,21 +87,22 @@ I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Ba
 
 #### Technical Skills:
 
-<dl>
-  <dd>
+<ul>
+  <li>
 • Programming Languages: C/C++, Python, MATLAB, Assembly (RISC-V), Verilog.
-  </dd>
-   <dd>
+  </li>
+   <li>
 • Design, Modeling, Simulation: Simulink, COMSOL, NI LabView, Proteus, Modelsim,
-Tinkercad/SolidWorks.</dd>
-   <dd>
-• MCU/Dev boards: Arduino, RaspberryPi, STM32, Xillinx FPGA</dd>
-   <dd>
+Tinkercad/SolidWorks.</li>
+   <li>
+• MCU/Dev boards: Arduino, RaspberryPi, STM32, Xillinx FPGA</li>
+   <li>
 • Test Equipment: DMM, Logic Analyzer, Oscilloscope, Power Supply, Black body, Peltier Module,
-Thermographic camera, Power Amplifier (PA), Signal Generator, Spectrum Analyzer (SA)</dd>
-   <dd>
-• Other tools and frameworks: mbed, STMCubeIDE, UNICO-GUI, SerialPlot, git, Linux AWS IoT.</dd>
-  </dl>
+Thermographic camera, Power Amplifier (PA), Signal Generator, Spectrum Analyzer (SA)</li>
+   <li>
+• Other tools and frameworks: mbed, STMCubeIDE, UNICO-GUI, SerialPlot, git, Linux AWS IoT.</li>
+  </li>
+  </ul>
   
 * * *
 
