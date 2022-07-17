@@ -33,28 +33,32 @@ I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Ba
 
 #### Experience:
 <dl>
+  
 <dt>Field Application Engineer Intern, STMicroelectronics, Schaumburg, IL.</dt>
  <dd>
 • Contributed to characterizing TMOS occupancy sensing technology for MEMS Application Team
 • Developed hardware and software of test equipment to enable automated testing routines for MEMS sensors
 • Aided in development of standardized testing procedure to fulfill customer application requirements
 • Aid in development of sensor data analysis / visualization
-• Develop routine to assist testing of sensor devices utilizing advanced lab equipment</dd>
-<dl>
+• Develop routine to assist testing of sensor devices utilizing advanced lab equipment
+  </dd>
 
   
-<dt>Research Assistant, Impact Innovation Lab (Prof. Matthew Campisi) <//dt>
+<dt>Research Assistant, Impact Innovation Lab (Prof. Matthew Campisi) </dt>
+  <dd>
 • Contributed to the integration of firmware with hardware and software solutions by analyzing design
 concepts and troubleshooting and clinical research for ARMA, a biomedical device to monitor Rheumatoid
 Arthritis using Infrared Thermography
 • Conducted quantitative and qualitative comparison study of users’ thermographic hand images based on
 FLIR Lepton 3.5 and FLIR T630
-
+  </dd>
+  
 <dt>Course Assistant, CS 2204, Department of ECE, Tandon School of Engineering, NYU Sept ‘21 – Jan ‘22</dt>
+  <dd>
 • Conducting Lab classes for Digital Logic and State Machine Design focusing on the synthesis of components
 using Verilog and demonstration on hardware using NEXYS 4 DDR FPGA board from Xilinx.
 • Assisting students during the open lab hours and office hours and grading assignments and quizzes.
-
+  </dd>
   <dt>Research and Development Intern, INNATES PLT, Johor Bahru, Malaysia. June ‘19–Sep ’19</dt>
   <dd>
 
@@ -72,19 +76,25 @@ Malaysia
 Technology” and “Sustainable Temperature Control for Broiler House in Malaysia”.
 • Performed experimental setup, data collection, data analysis, technical writing
   </dd>
-
+</dl>
 ***
 
 #### Technical Skills
-
+<dl>'
+  <dd>
 • Programming Languages: C/C++, Python, MATLAB, Assembly (RISC-V), Verilog.
+  </dd>
+   <dd>
 • Design, Modeling, Simulation: Simulink, COMSOL, NI LabView, Proteus, Modelsim,
-Tinkercad/SolidWorks.
-• MCU/Dev boards: Arduino, RaspberryPi, STM32, Xillinx FPGA
+Tinkercad/SolidWorks.</dd>
+   <dd>
+• MCU/Dev boards: Arduino, RaspberryPi, STM32, Xillinx FPGA</dd>
+   <dd>
 • Test Equipment: DMM, Logic Analyzer, Oscilloscope, Power Supply, Black body, Peltier Module,
-Thermographic camera, Power Amplifier (PA), Signal Generator, Spectrum Analyzer (SA)
-• Other tools and frameworks: mbed, STMCubeIDE, UNICO-GUI, SerialPlot, git, AWS IoT.
-
+Thermographic camera, Power Amplifier (PA), Signal Generator, Spectrum Analyzer (SA)</dd>
+   <dd>
+• Other tools and frameworks: mbed, STMCubeIDE, UNICO-GUI, SerialPlot, git, Linux AWS IoT.</dd>
+  </dl>
 * * *
 
 #### Publications:
