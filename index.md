@@ -34,56 +34,58 @@ I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Ba
 
 #### Experience:
 
-<dl>
+<ul>
+  <li>Field Application Engineer Intern, STMicroelectronics, Schaumburg, IL (2022 - Present)</li>
+    <ul>
+      <li>Contributed to characterizing TMOS occupancy sensing technology for MEMS Application Team</li>
+      <li>Developed hardware and software of test equipment to enable automated testing routines for MEMS sensors</li>
+      <li> Aid in development of sensor data analysis / visualization</li>
+    </ul>
   
-<dt>Field Application Engineer Intern, STMicroelectronics, Schaumburg, IL.</dt>
- <dd>
-• Contributed to characterizing TMOS occupancy sensing technology for MEMS Application Team
-• Developed hardware and software of test equipment to enable automated testing routines for MEMS sensors
-• Aided in development of standardized testing procedure to fulfill customer application requirements
-• Aid in development of sensor data analysis / visualization
-• Develop routine to assist testing of sensor devices utilizing advanced lab equipment
-  </dd>
-
+  <li>Research Assistant, Impact Innovation Lab, NYU Tandon School of Engineering (under Prof. Matthew Campisi) (2022 - Present)</li>
+      <ul>
+          <li>Contributed to the hardware and software integration through firmware development, hardware design and clinical research for ARMA, a            biomedical device to monitor progression of Rheumatoid Arthritis using Infrared Thermography</li>
+          <li>Conducted quantitative and qualitative comparison study of users’ thermographic hand images based on
+           FLIR Lepton 3.5 and FLIR T630</li>
+      </ul>
+  </li>
   
-<dt>Research Assistant, Impact Innovation Lab (Prof. Matthew Campisi) </dt>
-  <dd>
-• Contributed to the integration of firmware with hardware and software solutions by analyzing design
-concepts and troubleshooting and clinical research for ARMA, a biomedical device to monitor Rheumatoid
-Arthritis using Infrared Thermography
-• Conducted quantitative and qualitative comparison study of users’ thermographic hand images based on
-FLIR Lepton 3.5 and FLIR T630
-  </dd>
-  
-<dt>Course Assistant, CS 2204, Department of ECE, Tandon School of Engineering, NYU Sept ‘21 – Jan ‘22</dt>
-  <dd>
-• Conducting Lab classes for Digital Logic and State Machine Design focusing on the synthesis of components
-using Verilog and demonstration on hardware using NEXYS 4 DDR FPGA board from Xilinx.
-• Assisting students during the open lab hours and office hours and grading assignments and quizzes.
-  </dd>
-  <dt>Research and Development Intern, INNATES PLT, Johor Bahru, Malaysia. June ‘19–Sep ’19</dt>
-  <dd>
+  <li>Course Assistant, CS 2204, Department of ECE, Tandon School of Engineering, NYU Sept ‘21 – Jan ‘22</li> 
+      <ul>
+          <li> Conducting Lab sessions for Digital Logic and State Machine Design focusing on the synthesis of components
+                using Verilog and demonstration on hardware using NEXYS 4 DDR FPGA board from Xilinx.</li>
+          <li>Assisting students during the open lab hours and office hours and grading assignments and quizzes. </li>
+      </ul>
+   </li>
 
-• Worked on a project named “Photovoltaic Energy Monitoring Systems (PVEMS)” for
-• the client PETRONAS Global.
-• Design and implement circuit for CTH sensor, Analog-Digital Converter (ADC), microcontroller,
-communication gateway and programming backend server and database.
-  </dd>
 
-  <dt>Research Assistant, Dr. Pei Ling Nov ‘17– May ‘18</dt>
-  <dd>
-• Sustainable and Smart Broiler House Farming in Malaysia, Universiti Teknologi Malaysia, Johor Bahru,
-Malaysia
-• Worked under supervision of Assoc. Prof. Leow Pei Ling on the projects “Sustainable Farming with Green
-Technology” and “Sustainable Temperature Control for Broiler House in Malaysia”.
-• Performed experimental setup, data collection, data analysis, technical writing
-  </dd>
-</dl>
+  <li>Research and Development Intern, INNATES PLT, Johor Bahru, Malaysia. June ‘19–Sep ’19</li>
+          <ul>
+              <li>
+                Worked on a project named “Photovoltaic Energy Monitoring Systems (PVEMS, an Energy monitoring IoT Application for an offshore bunker“.               </li>
+              <li> 
+                Design and implement circuit for CTH sensor, Analog-Digital Converter (ADC), microcontroller,
+                communication gateway and programming backend server and database.
+              </li>
+          </ul>
+   </li>
+
+<li> **Research Assistant, Instrumentation Lab under Prof. Leow Pei Ling, UTM, Malaysia</li>
+  <ul>
+      <li>
+      Worked under supervision of Assoc. Prof. Leow Pei Ling on the projects “Sustainable Farming with Green
+      Technology” and “Sustainable Temperature Control for Broiler House in Malaysia”.
+      Performed experimental setup, data collection, data analysis, technical writing
+      </li>
+   </ul>
+</li>
+
+</ul>
 ***
 
 #### Technical Skills:
 
-<dl>'
+<dl>
   <dd>
 • Programming Languages: C/C++, Python, MATLAB, Assembly (RISC-V), Verilog.
   </dd>
