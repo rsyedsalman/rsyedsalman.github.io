@@ -8,9 +8,7 @@ use-site-title: true
 
 I am a grad student, pursuing MS in Electrical Engineering at [New York University, Tandon School of Engineeering.](https://engineering.nyu.edu/), graduating in December 2022. I am currently working as a Field Application Engineer Intern at STMicroelectronics Inc. at their Schaumburg office.
 
-My areas of interests are: Embedded System Design, MEMS Sensors, BioSensors, Wearable Sensors, Internet of Things (IoT), Lab-On-Chip Sensors, Health Monitoring.  
-
-I graduated from Universiti Teknologi Malaysia (UTM), Malaysia in 2020 with a Bachelor of Engineering in Electrical-Mechatronics Engineering.  
+My areas of interests are: Embedded System Design, MEMS Sensors, BioSensors, Wearable Sensors, Internet of Things (IoT), Lab-On-Chip Sensors, Health Monitoring.
 
 * * *
 
