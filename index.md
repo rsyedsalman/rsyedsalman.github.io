@@ -19,7 +19,8 @@ My areas of interests are: Embedded System Design, MEMS Sensors, BioSensors, Wea
 <dl>
   <dt>New York University, Tandon School of Engineering, Brooklyn, NY, USA</dt>
   <dd>MS, Electrical Engineering</dd>
-  <dd>2021-2023</dd>
+  <dd>Thesis: [Thesis] ("c0b31868-9138-44d6-acaa-474f79a67d7b.pdf")</dd>
+  <dd>2021-2022</dd>
   
   <dt>Universiti Teknologi Malaysia, Skudai, Johor, Malaysia</dt>
   <dd>BEng, Electrical-Mechatronics </dd>
@@ -111,7 +112,6 @@ Other tools and frameworks: mbed, STMCubeIDE, UNICO-GUI, SerialPlot, git, Linux 
 **Syed Salman Rahman**, Mohd. Ridzuan.  
 *3rd International Conference On Green Engineering & Technology 2021 (IConGETech2021)*
 
-
 * “Temperature Distribution Study for Malaysia Broiler House”.  
 Lau K.X., Leow P.L., Jamian J.J.,Arsat, R., Abdeltawab A.A.A., **Rahman S.S.,** Khalid N.H., A.Mohamed A.  
 *2nd International Conference on Smart Sensors and Application, ICSSA, 2018.*  
@@ -119,10 +119,6 @@ Lau K.X., Leow P.L., Jamian J.J.,Arsat, R., Abdeltawab A.A.A., **Rahman S.S.,** 
 * “Harvesting electrical energy from rooftop ventilator”.  
 Lau K.X., Leow P.L., Jamian J.J.,Arsat, R., Abdeltawab A.A.A., Rahman S.S., Khalid N.H., A.Mohamed A.  
 *International Journal of Integrated Engineering., Vol.10, No.4, pp. 68-72, 2018.*  
-
-* “A Survey of IoT based Indoor Positioning Systems based on Bluetooth Low Energy Beacon”.  
-**Syed Salman Rahman**, Afia Fahmida Rahman, Eliya Tazreena Tashbib, Masud Imran, Rozeha A. Rashid, M. A. Sarijari.  
-(Submitted-Under review)
 
 * * *
 
