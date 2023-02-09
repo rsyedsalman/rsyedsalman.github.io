@@ -20,7 +20,7 @@ My areas of interests are: Embedded System Design, MEMS Sensors, BioSensors, Wea
   <dt>New York University, Tandon School of Engineering, Brooklyn, NY, USA</dt>
   <dd>MS, Electrical Engineering</dd>
   <dd>2021-2022</dd>
-  Thesis: [Development and evaluation of low-cost Infrared Imaging based system for assessing inflammatory activity related to Rheumatoid Arthritis] ("https://github.com/rsyedsalman/rsyedsalman.github.io/blob/master/c0b31868-9138-44d6-acaa-474f79a67d7b.pdf/")
+  Thesis: [Development and evaluation of low-cost Infrared Imaging based system for assessing inflammatory activity related to Rheumatoid Arthritis("https://github.com/rsyedsalman/rsyedsalman.github.io/blob/master/c0b31868-9138-44d6-acaa-474f79a67d7b.pdf/")
   
   
   <dt>Universiti Teknologi Malaysia, Skudai, Johor, Malaysia</dt>
