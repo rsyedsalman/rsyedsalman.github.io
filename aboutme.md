@@ -1,6 +1,6 @@
 ---
 layout: page
-last-updated
+last-updated: true
 title: About me
 subtitle: WhoamI
 ---
