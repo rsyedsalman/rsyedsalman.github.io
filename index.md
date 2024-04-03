@@ -5,10 +5,11 @@ subtitle: Grad student, NYU Tandon School of Engineering
 use-site-title: true
 ---
 
+Application Engineer at STMicroelectronics Inc., redefining presence sensing solutions with state-of-the-art occupancy sensing technology.
 
-I am a grad student, pursuing MS in Electrical Engineering at [New York University, Tandon School of Engineering.](https://engineering.nyu.edu/), graduating in December 2022. I am a Field Application Engineer Intern at STMicroelectronics Inc. at their Schaumburg office.
+I am also an MSEE graduate from Tandon School of Engineering, [New York University, Tandon School of Engineering.](https://engineering.nyu.edu/), graduated in December 2022.
 
-My areas of interest are Embedded System Design, MEMS Sensors, BioSensors, Wearable Sensors, Internet of Things (IoT), Lab-On-Chip Sensors, and Health Monitoring.
+My areas of interest are MEMS Sensors, Embedded System Design, Wearable Sensors, Internet of Things (IoT), and Health Monitoring.
 
 * * *
 
