@@ -138,11 +138,20 @@ footer-hover-col: "#0085A1"
 
 # --- Web Analytics Section --- #
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MNPLMK9PCK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MNPLMK9PCK');
+</script>
+
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-MNPLMK9PCK"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "7809559964"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
