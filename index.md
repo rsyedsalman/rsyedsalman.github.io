@@ -6,9 +6,9 @@ use-site-title: true
 ---
 
 
-I am a grad student, pursuing MS in Electrical Engineering at [New York University, Tandon School of Engineeering.](https://engineering.nyu.edu/), graduating in December 2022. I am currently working as a Field Application Engineer Intern at STMicroelectronics Inc. at their Schaumburg office.
+I am a grad student, pursuing MS in Electrical Engineering at [New York University, Tandon School of Engineering.](https://engineering.nyu.edu/), graduating in December 2022. I am a Field Application Engineer Intern at STMicroelectronics Inc. at their Schaumburg office.
 
-My areas of interests are: Embedded System Design, MEMS Sensors, BioSensors, Wearable Sensors, Internet of Things (IoT), Lab-On-Chip Sensors, Health Monitoring.
+My areas of interest are Embedded System Design, MEMS Sensors, BioSensors, Wearable Sensors, Internet of Things (IoT), Lab-On-Chip Sensors, and Health Monitoring.
 
 * * *
 
@@ -34,18 +34,26 @@ My areas of interests are: Embedded System Design, MEMS Sensors, BioSensors, Wea
 #### Experience:
 
 <ul>
-  <li>Field Application Engineer Intern, STMicroelectronics, Schaumburg, IL (June '22 - Present)
+  <li>Application Engineer II, STMicroelectronics, Schaumburg, IL (Jan '23 - Present)
     <ul>
-      <li>Contributed to characterizing TMOS occupancy sensing technology for MEMS Application Team</li>
-      <li>Developed hardware and software of test equipment to enable automated testing routines for MEMS sensors</li>
-      <li> Aid in development of sensor data analysis / visualization</li>
+      <li> Provide technical support of MEMS sensors and occupancy/presence sensing solutions</li>
+      <li> Define, develop, and present technical demos to aid promotional activities</li>
+      <li> Define, develop, and document lab activities such as device characterization, functional requirement per application requirement, root cause analysis, design document, and test reports </li>
+    </ul>
+   </li>
+  
+  <li>Field Application Engineer Intern, STMicroelectronics, Schaumburg, IL (June '22 - Dec '22)
+    <ul>
+      <li> Contributed to characterizing TMOS occupancy sensing technology for MEMS Application Team</li>
+      <li> Developed hardware and software of test equipment to enable automated testing routines for MEMS sensors</li>
+      <li> Aid in development of sensor data analysis/visualization </li>
     </ul>
    </li>
   
   <br>
   <li>Research Assistant, Impact Innovation Lab, NYU Tandon School of Engineering (under Prof. Matthew Campisi) (Jan '22 - Present)
       <ul>
-          <li>Contributed to the hardware and software integration through firmware development, hardware design and clinical research for ARMA, a            biomedical device to monitor progression of Rheumatoid Arthritis using Infrared Thermography</li>
+          <li>Contributed to the hardware and software integration through firmware development, hardware design and clinical research for ARMA, a            biomedical device to monitor the progression of Rheumatoid Arthritis using Infrared Thermography</li>
           <li>Conducted quantitative and qualitative comparison study of users’ thermographic hand images based on
            FLIR Lepton 3.5 and FLIR T630</li>
       </ul>
@@ -56,7 +64,7 @@ My areas of interests are: Embedded System Design, MEMS Sensors, BioSensors, Wea
       <ul>
           <li> Conducting Lab sessions for Digital Logic and State Machine Design focusing on the synthesis of components
                 using Verilog and demonstration on hardware using NEXYS 4 DDR FPGA board from Xilinx.</li>
-          <li>Assisting students during the open lab hours and office hours and grading assignments and quizzes. </li>
+          <li>Assisting students during the open lab and office hours and grading assignments and quizzes. </li>
       </ul>
    </li>
 
@@ -75,7 +83,7 @@ My areas of interests are: Embedded System Design, MEMS Sensors, BioSensors, Wea
 <li> Research Assistant, Instrumentation Lab under Prof. Leow Pei Ling, UTM, Malaysia(Nov ‘17–May ’18)
   <ul>
       <li>
-      Worked under supervision of Assoc. Prof. Leow Pei Ling on the projects “Sustainable Farming with Green
+      Worked under the supervision of Assoc. Prof. Leow Pei Ling on the project “Sustainable Farming with Green
       Technology” and “Sustainable Temperature Control for Broiler House in Malaysia”.
       Performed experimental setup, data collection, data analysis, technical writing
       </li>
@@ -96,7 +104,7 @@ Programming Languages: C/C++, Python, MATLAB, Assembly (RISC-V), Verilog.
 Design, Modeling, Simulation: Simulink, COMSOL, NI LabView, Proteus, Modelsim,
 Tinkercad/SolidWorks.</li>
    <li>
-MCU/Dev boards: Arduino, RaspberryPi, STM32, Xillinx FPGA</li>
+MCU/Dev boards: Arduino, RaspberryPi, STM32 Family</li>
    <li>
 Test Equipment: DMM, Logic Analyzer, Oscilloscope, Power Supply, Black body, Peltier Module,
 Thermographic camera, Power Amplifier (PA), Signal Generator, Spectrum Analyzer (SA)</li>
@@ -108,9 +116,6 @@ Other tools and frameworks: mbed, STMCubeIDE, UNICO-GUI, SerialPlot, git, Linux 
 
 #### Publications:
 
-* “Microfluidic Based Dielectrophoresis Cell Sorter for real-time cancer detection”.  
-**Syed Salman Rahman**, Mohd. Ridzuan.  
-*3rd International Conference On Green Engineering & Technology 2021 (IConGETech2021)*
 
 * “Temperature Distribution Study for Malaysia Broiler House”.  
 Lau K.X., Leow P.L., Jamian J.J.,Arsat, R., Abdeltawab A.A.A., **Rahman S.S.,** Khalid N.H., A.Mohamed A.  
