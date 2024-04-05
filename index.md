@@ -1,7 +1,7 @@
 ---
 layout: pageN
-title: Hi, I'm Salman
-subtitle: Grad student, NYU Tandon School of Engineering
+title: Syed Salman Rahman
+subtitle: Hi, I'm Salman
 use-site-title: true
 ---
 
